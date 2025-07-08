@@ -49,5 +49,5 @@ A simple and efficient URL shortener that allows users to input long URLs and re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/url-shortener.git
-cd url-shortener
+git clone https://github.com/your-username/20613203122.git
+cd 20613203122
