@@ -3,6 +3,8 @@
 ![image](https://github.com/user-attachments/assets/04c33b36-7302-4180-95a1-cd2057871f89)
 ![image](https://github.com/user-attachments/assets/1e4bc066-9b96-4957-8996-028cb7d9eef5)
 ![image](https://github.com/user-attachments/assets/6a6f8300-2545-4c8b-a037-4f0fe1462275)
+![image](https://github.com/user-attachments/assets/5c46de50-f7e0-4024-a8da-14394d949c40)
+
 # 🔗 URL Shortener App
 
 A simple and efficient URL shortener that allows users to input long URLs and receive short, shareable links. The app includes a clean frontend interface and backend logic for generating and redirecting using short codes.
